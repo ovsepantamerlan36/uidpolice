@@ -1,1 +1,18 @@
-
+[
+    {
+        "uid": "33596",
+        "username": "TwizzleFuzz",
+        "inviter": "none",
+        "joined": "Dec 25, 2024",
+        "status": "Premium",
+        "update": "May 12, 2025"
+    },
+    {
+        "uid": "99999",
+        "username": "NewUser",
+        "inviter": "InviterX",
+        "joined": "Jan 1, 2025",
+        "status": "Standard",
+        "update": "May 12, 2025"
+    }
+]
